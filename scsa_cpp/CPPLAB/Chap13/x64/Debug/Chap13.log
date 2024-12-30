@@ -1,0 +1,15 @@
+﻿  03.ClassTemplate.cpp
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(13,7): error C2990: 'sample': 비클래스 템플릿이(가) 이미 클래스 템플릿(으)로 선언되었습니다.
+      C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(6,7):
+      'sample' 선언을 참조하십시오.
+  
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(22,14): error C2079: 's'은(는) 정의되지 않은 class 'sample'을(를) 사용합니다.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(22,15): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+      C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(22,15):
+      이니셜라이저에 요소가 너무 많습니다.
+  
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(24,17): error C2079: 's1'은(는) 정의되지 않은 class 'sample'을(를) 사용합니다.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(24,19): error C2440: '초기화 중': 'initializer list'에서 'int'(으)로 변환할 수 없습니다.
+      C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap13\03.ClassTemplate.cpp(24,19):
+      이니셜라이저에 요소가 너무 많습니다.
+  

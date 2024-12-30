@@ -1,0 +1,11 @@
+﻿  01.STDString.cpp
+  StringClass.cpp
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(34,18): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(36,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(43,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(58,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(66,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(67,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(83,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\Chap12\StringClass.cpp(84,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...

@@ -1,0 +1,10 @@
+﻿  01.constObject.cpp
+  02.FriendClass.cpp
+  03.FriendFunction.cpp
+  04.StaticMemberVar.cpp
+  05.StaticMemberFunction.cpp
+  코드를 생성하고 있습니다...
+04.StaticMemberVar.obj : error LNK2005: main이(가) 03.FriendFunction.obj에 이미 정의되어 있습니다.
+05.StaticMemberFunction.obj : error LNK2005: main이(가) 03.FriendFunction.obj에 이미 정의되어 있습니다.
+05.StaticMemberFunction.obj : error LNK2005: "public: static int SoSimple::simObjCnt" (?simObjCnt@SoSimple@@2HA)이(가) 04.StaticMemberVar.obj에 이미 정의되어 있습니다.
+C:\SCSA\CLab\CPP\scsa_cpp\CPPLAB\x64\Debug\Chap06.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

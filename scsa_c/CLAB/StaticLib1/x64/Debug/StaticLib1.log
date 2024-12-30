@@ -1,0 +1,2 @@
+﻿  StaticLib1.c
+C:\SCSA\CLab\C\scsa_c\CLAB\StaticLib1\StaticLib1.c(4,10): error C1853: 'x64\Debug\StaticLib1.pch' 미리 컴파일된 헤더 파일이 다른 버전의 컴파일러에서 만들어졌거나, 미리 컴파일된 헤더가 C++인데 C에서 사용하고 있거나 그 반대의 경우입니다.

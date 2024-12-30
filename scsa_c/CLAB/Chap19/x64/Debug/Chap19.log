@@ -1,0 +1,3 @@
+﻿  main05.c
+C:\SCSA\CLab\C\scsa_c\CLAB\Chap19\main05.c(4,42): warning C4081: ':'이(가) 있어야 하는데 ')'이(가) 있습니다.
+  Chap19.vcxproj -> C:\SCSA\CLab\C\scsa_c\CLAB\x64\Debug\Chap19.exe
